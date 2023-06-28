@@ -1,0 +1,15 @@
+{
+  "staging": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-usda-staging-135723-authRole",
+      "UnauthRoleArn": "arn:aws:iam::553065234424:role/amplify-usda-staging-135723-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::553065234424:role/amplify-usda-staging-135723-authRole",
+      "Region": "us-east-2",
+      "DeploymentBucketName": "amplify-usda-staging-135723-deployment",
+      "UnauthRoleName": "amplify-usda-staging-135723-unauthRole",
+      "StackName": "amplify-usda-staging-135723",
+      "StackId": "arn:aws:cloudformation:us-east-2:553065234424:stack/amplify-usda-staging-135723/e182aef0-11cd-11ee-81d7-020240d92caf",
+      "AmplifyAppId": "d3735zgvcgg57l"
+    }
+  }
+}
